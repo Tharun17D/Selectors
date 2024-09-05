@@ -1,0 +1,86 @@
+body{
+    background-image: url(./MArcel\ 2.jpg);
+    background-repeat: no-repeat;
+    /* background-size: 100% 100%; */
+  background-size: cover;
+  object-fit: 100%;
+}
+.d1{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    position: sticky;
+    top: 0;
+    
+    
+}
+#child1{
+    color: rgb(24, 17, 11);
+    padding-top: 35px;
+   
+}
+.d2{
+   height: 100px;
+    box-shadow: 3px 4px 6px goldenrod;
+    background:linear-gradient( to right, red, purple, blue, green, yellow )
+}
+.h1{
+    padding-left: 25px;
+  
+
+}
+.p1{ padding-top: 5px;
+
+}
+.p2{
+    padding-left: 40%;
+}
+.p3{
+padding-left: 80%;
+}
+.d3{
+    background-color: bisque;
+}
+.d4{
+    box-shadow: 3px 4px 6px black;
+}
+.i4{
+    object-fit: contain;
+    width: 100%;
+    height: 200px;
+}
+.d5{
+   
+    box-shadow: 3px 4px 6px black;
+   
+}
+.i5{
+    object-fit: contain;
+    width: 100%;
+    height: 200px;
+}
+#d1{ box-shadow: 3px 4px 6px black;
+
+}
+.i5{
+    object-fit:fill;
+    width: 100%;
+    height: 200px;
+}
+.d6{
+    
+    box-shadow: 3px 4px 6px black;
+}
+.m1{
+    /* object-fit: cover; */
+    /* width: 100; */
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+}
+#l1{
+    background-color: coral;
+    font-size: 50px;
+}
